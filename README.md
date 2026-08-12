@@ -39,18 +39,6 @@
 
 ---
 
-### 📊 Repository Telemetry
-
-<div align="center">
-  <br/>
-  <!-- Replace YOUR_GITHUB_USERNAME in both links below -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&icon_color=00FF9D&border_color=12181E" alt="GitHub Stats" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&border_color=12181E" alt="Top Tech Languages" />
-</div>
-
----
-
 <div align="center">
   <p font-mono>📩 Ready to scale your web systems? Connect on <a href="https://wa.me/966535104536"><b>WhatsApp (+966 53 510 4536)</b></a> to schedule an architecture review.</p>
 </div>
