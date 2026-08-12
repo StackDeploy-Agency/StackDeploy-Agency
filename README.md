@@ -39,23 +39,14 @@
 
 ---
 
-### 🚀 Active Systems & Client Deployments
-
-| System / Engine | Capabilities | Status |
-| :--- | :--- | :--- |
-| **Noorie Stays Engine** | Next.js, Supabase, Automated Reservation System | [Live Production ↗](https://noorie-stays.vercel.app) |
-| **Threat Visualizer** | Real-time Attack Telemetry, AWS Logging, Python | *Enterprise Demo* |
-| **StackDeploy Portal** | Next.js 14, Framer Motion, Direct Client Pipeline | [Visit Platform ↗](https://stackdeploy.vercel.app) |
-
----
-
-### 📊 Repository Activity & Telemetry
+### 📊 Repository Telemetry
 
 <div align="center">
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&aria_label=GitHub%20Stats&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&icon_color=00FF9D&border_color=12181E" alt="StackDeploy Stats" />
+  <!-- Replace YOUR_GITHUB_USERNAME in both links below -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&icon_color=00FF9D&border_color=12181E" alt="GitHub Stats" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&aria_label=Top%20Langs&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&border_color=12181E" alt="Top Tech Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&border_color=12181E" alt="Top Tech Languages" />
 </div>
 
 ---
