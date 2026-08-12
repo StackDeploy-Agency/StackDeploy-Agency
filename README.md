@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**StackDeploy-Agency/StackDeploy-Agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- ANIMATED AGENCY HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9D&center=true&vcenter=true&width=700&height=70&lines=STACKDEPLOY+%7C+BUILD+%E2%80%A2+DEPLOY+%E2%80%A2+SCALE;Custom+Web+Apps+%26+Interactive+Dashboards;Cloud+Ops%2C+CI%2FCD+%26+Security+Hardening" alt="StackDeploy Typing Header" />
+  </a>
 
-Here are some ideas to get you started:
+  <h3>⚡ Digital Engineering Studio & Software Systems</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>We engineer, optimize, and deploy high-performance B2B web applications and cloud infrastructure.</p>
+
+  <!-- BUSINESS CONTACT BADGES -->
+  <a href="https://wa.me/966535104536">
+    <img src="https://img.shields.io/badge/WhatsApp_Business-+966_53_510_4536-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp Business" />
+  </a>
+  <a href="https://stackdeploy.vercel.app">
+    <img src="https://img.shields.io/badge/Agency_Site-StackDeploy-00FF9D?style=for-the-badge&logo=vercel&logoColor=black" alt="StackDeploy Site" />
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Enterprise Tech Stack & Capabilities
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Security-00FF9D?style=for-the-badge&logo=shield&logoColor=black" />
+
+</div>
+
+---
+
+### 🚀 Active Systems & Client Deployments
+
+| System / Engine | Capabilities | Status |
+| :--- | :--- | :--- |
+| **Noorie Stays Engine** | Next.js, Supabase, Automated Reservation System | [Live Production ↗](https://noorie-stays.vercel.app) |
+| **Threat Visualizer** | Real-time Attack Telemetry, AWS Logging, Python | *Enterprise Demo* |
+| **StackDeploy Portal** | Next.js 14, Framer Motion, Direct Client Pipeline | [Visit Platform ↗](https://stackdeploy.vercel.app) |
+
+---
+
+### 📊 Repository Activity & Telemetry
+
+<div align="center">
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&aria_label=GitHub%20Stats&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&icon_color=00FF9D&border_color=12181E" alt="StackDeploy Stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&aria_label=Top%20Langs&bg_color=0B0F12&title_color=00FF9D&text_color=cbd5e1&border_color=12181E" alt="Top Tech Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p font-mono>📩 Ready to scale your web systems? Connect on <a href="https://wa.me/966535104536"><b>WhatsApp (+966 53 510 4536)</b></a> to schedule an architecture review.</p>
+</div>
